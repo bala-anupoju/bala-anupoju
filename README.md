@@ -6,6 +6,9 @@
 📍 Austin, TX &nbsp;|&nbsp; 
 📧 balaanupoju23@gmail.com &nbsp;|&nbsp;
 🔗 [LinkedIn](https://linkedin.com/in/sekhar-bala-anupoju-101281370)
+🌐 [Portfolio](https://balaportfolio-one.vercel.app)
+### 🌐 Portfolio
+👉 **[balaportfolio-one.vercel.app](https://balaportfolio-one.vercel.app)**
 
 ---
 
